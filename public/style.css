@@ -1,0 +1,26 @@
+body {
+  background-color: #f3f3f3;
+  font-family: Arial, sans-serif;
+  padding: 30px;
+}
+
+.container {
+  background: white;
+  max-width: 600px;
+  margin: auto;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+.resultado {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+}
